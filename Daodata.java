@@ -18,9 +18,4 @@ public class Daodata {
 			e22.persist(ct1);
 			et.commit();
 		}
-
-
-
-
-
 }
